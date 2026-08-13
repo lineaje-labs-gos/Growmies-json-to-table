@@ -1,6 +1,6 @@
 {
   "name": "json-to-table",
-  "version": "4.2.1",
+  "version": "4.2.1-lineaje-01",
   "description": "Convert an array of Objects into a table format",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Growmies/json-to-table.git"
+    "url": "https://github.com/lineaje-labs-gos/Growmies-json-to-table"
   },
   "keywords": [
     "json",
@@ -18,7 +18,11 @@
   "author": "Scott Hillman <hillmanov@gmail.com>",
   "contributors": [
     "Scott Hillman <hillmanov@gmail.com>",
-    "Joey Cozza <joeycozza@gmail.com>"
+    "Joey Cozza <joeycozza@gmail.com>",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "license": "ISC",
   "bugs": {
